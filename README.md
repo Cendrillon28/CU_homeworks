@@ -1,2 +1,2 @@
-# pandas_homework
-CU FinTech third homework due Jan 21, 2021
+# Homework Repository
+Repository for all Columbia Engineering FinTech Boot Camp Homeworks
